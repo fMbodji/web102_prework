@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/zvBX3LI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/zvBX3LI.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 <!-- Recommended tools:
